@@ -1,4 +1,4 @@
-# ProxyTo
+# ProxyTo [![Build Status](https://travis-ci.org/scryptmouse/proxy_to.svg?branch=master)](https://travis-ci.org/scryptmouse/proxy_to)
 
 Dead-simple proxying to another object.
 
