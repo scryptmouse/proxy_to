@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "proxy_to"
+
+require_relative '../spec/test_objects'
+
+require "pry"
+
+Pry.start
